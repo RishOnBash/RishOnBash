@@ -1,14 +1,13 @@
 # Rish (RishOnBash)
-
-> Biotechnology student exploring the intersection of Linux environments and genomic data. 
-> Learning the possibilities of portable Linux and beyond.
+ 
+`Just a random guy who happened to hop into the Linux rabbit hole.`
+Just a random guy who happened to hop into the Linux rabbit hole.
 
 ---
+*...and the rest is history.*
 
-### 💻 Technical Proficiency
-- **Languages:** C, Bash Scripting, Python (Bioinformatics applications)
-- **Environment:** Linux (Debian/Termux), Vim, Git-based version control
-- **System Automation:** Managing custom configurations and dotfiles for portable development environments.
+- Learning the possibilities of portable Linux and beyond.
+- Currently learning C.
 
 ---
 
