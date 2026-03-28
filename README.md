@@ -1,13 +1,13 @@
 # Rish (RishOnBash)
  
-`Just a random guy who happened to hop into the Linux rabbit hole.`
-Just a random guy who happened to hop into the Linux rabbit hole.
+$ whoami
+> Just a random guy who is comfortable with `/home` ...and the rest is `$ history`.
 
 ---
-*...and the rest is history.*
 
 - Learning the possibilities of portable Linux and beyond.
 - Currently learning C.
+- I use Vim btw.
 
 ---
 
