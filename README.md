@@ -13,7 +13,7 @@ $ whoami
 
 ### Languages and tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-[![AWK](https://img.shields.io/badge/AWK-A10000?style=for-the-badge&logo=gnu&logoColor=white)
+![AWK](https://img.shields.io/badge/AWK-A10000?style=for-the-badge&logo=gnu&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
