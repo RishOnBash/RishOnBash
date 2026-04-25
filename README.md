@@ -24,5 +24,7 @@ $ whoami
 ---
 
 ### 📬 Connect with me
-- 📸 [Instagram](https://instagram.com/usr_bin_env__bash)
-- 🖥️ [GitHub](https://github.com/RishOnBash)
+
+[![Exercism](https://img.shields.io/badge/Exercism-007ACC?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/RishOnBash)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rkbhd88)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/usr_bin_env__bash)
