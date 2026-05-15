@@ -1,29 +1,19 @@
-# Rish (RishOnBash)
- 
+## rishonbash@github
+
+```
 $ whoami
-> Just a random guy who is comfortable with `/home` ...and the rest is `$ history`.
+Rish
 
----
+$ cat about_me
+Currently pursuing Masters in Biotechnology.
+I like to write bash scripts to make my work easier.
+Currently learning C.
+And i like watching movies.
 
-- Learning the possibilities of portable Linux and beyond.
-- Currently learning C and Awk.
-- I use Vim btw.
+$ ls tech_and_languages
+Linux Bash C Awk Git 
 
----
-
-### Languages and tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![AWK](https://img.shields.io/badge/AWK-A10000?style=for-the-badge&logo=gnu&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-
----
-
-### 📬 Connect with me
-
-[![Exercism](https://img.shields.io/badge/Exercism-007ACC?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/RishOnBash)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rkbhd88)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/usr_bin_env__bash)
+$ fortune random_qoute | fold 50
+Give me six hours to chop down a tree, and I will
+spend the first four sharpening the axe.
+~ Unknown
