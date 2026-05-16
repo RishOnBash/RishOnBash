@@ -11,7 +11,7 @@ Currently learning C.
 And i like watching movies.
 
 $ ls tech_and_languages
-Linux Bash C Awk Git 
+Linux Bash C Awk Git Vim
 
 $ fortune random_qoute | fold 50
 Give me six hours to chop down a tree, and I will
