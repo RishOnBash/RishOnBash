@@ -1,5 +1,3 @@
-## rishonbash@github
-
 ```
 $ whoami
 Rish
