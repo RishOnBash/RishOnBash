@@ -3,10 +3,9 @@ $ whoami
 Rish
 
 $ cat about_me
-Currently pursuing Masters in Biotechnology.
-I like to write bash scripts to make my work easier.
-Currently learning C.
-And i like watching movies.
+- Postgrad student in Biotechnology.
+- Currently learning C and Awk.
+- I like watching movies.
 
 $ ls tech_and_languages
 Linux Bash C Awk Git Vim
